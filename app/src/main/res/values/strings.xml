@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MySelfApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="home">Home</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music_and_video">Music and Video</string>
+    <string name="profile">Profile</string>
+    <string name="rebarxd">RebarXd</string>
+    <string name="rebarxd_juniorandroid_com">rebarxd@juniorandroid.com</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="daily_fragment">Daily Fragment</string>
+    <string name="gallery_fragment">Gallery Fragment</string>
+    <string name="music_fragment">Music Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="description_profile">Mahasiswa Ilmu Komputer tahun ketiga di Universitas Komputer Indonesia dengan minat yang kuat pada Analisis Data, Visualisasi Data, dan Pembelajaran Mesin. Memiliki kemampuan manajemen proyek dan kerja sama tim yang telah terbukti melalui berbagai proyek. Tertarik untuk menerapkan keterampilan analitis dan teknis dalam peran berbasis data.</string>
+    <string name="interest">Interest</string>
+    <string name="hobby">Hobby: Menonton Pertandingan Esports</string>
+    <string name="makes">Makes: Data/Article tentang esports</string>
+    <string name="mikes_analyst_esport_games">Mikes: Analis esport games</string>
+    <string name="interest_data_analyst">Interest: Data Analyst</string>
+    <string name="dream">Cita-cita: Analyst pada suatu organisasi esport</string>
+    <string name="friends_list">Friends List</string>
+    <string name="contact">Contact</string>
+
+
+</resources>
