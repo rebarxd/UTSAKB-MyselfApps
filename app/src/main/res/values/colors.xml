@@ -20,5 +20,12 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
 
+    <color name="red_rb">#7e0519</color>
+    <color name="red_walk">#7e0000</color>
+    <color name="sunflower">#F1C40F</color>
+    <color name="blue_grey">#ECEFF1</color>
+    <color name="dark_red">#680000</color>
+    <color name="red_light">#CD201F</color>
+
 
 </resources>
